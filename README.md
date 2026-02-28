@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas (yExcept)</h1>
 <h3 align="center">👋 Hey, I’m Nicolas — a Fullstack Developer building my own stuff and doing some freelance work on the side 💻 Fullstack Dev who loves turning ideas into real projects (and freelancing in between)</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, AdonisJS and GO**
 
 - 💬 Ask me about **React, TypeScript, Java**
 
