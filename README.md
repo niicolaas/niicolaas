@@ -16,11 +16,11 @@
 
 
 
-### 🚀 About Me
+### About Me
 
-- 🛠️ Experienced in microservices architecture and managing both relational and NoSQL databases.
+- Experienced in microservices architecture and managing both relational and NoSQL databases.
 
-- ⚡ Outside of code: Gym enthusiast, avid reader, and gamer.
+- Outside of code: Gym enthusiast, avid reader, and gamer(i like persona and hoi4 btw).
 
 ### Currently diving deep into the **Go** ecosystem and **AdonisJS**.
 
